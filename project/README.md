@@ -56,9 +56,14 @@ To run this project on your local machine, follow these steps:
     ```sh
     git clone https://github.com/tejashreedure-art/internal_assessment.git
     ```
-2.  **Navigate to the project directory:**
+
+2.  **Clone the repository** (or download the ZIP file):
     ```sh
-    cd 
+    git checkout Restaurant_project
+    ```
+3.  **Navigate to the project directory:**
+    ```sh
+    cd project
     ```
 3.  **Open the `index.html` file** in your web browser. That's it! The website is fully static and requires no build process.
 
