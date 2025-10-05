@@ -3,7 +3,7 @@
 
 A fully responsive, single-page website for a fictional upscale restaurant, "The Gourmet Haven." This project showcases modern web development techniques using semantic HTML5, advanced CSS3 with Flexbox and Grid, and vanilla JavaScript for interactivity. The design is elegant, professional, and optimized for all screen sizes.
 
-### [Live Demo]
+### [Live Demo] : https://tejashreedure-art.github.io/internal_assessment/
 
 ## Features
 
